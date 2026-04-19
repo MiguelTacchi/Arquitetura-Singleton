@@ -9,6 +9,7 @@ O principal objetivo é demonstrar a aplicação do padrão de projeto Singleton
 Controlar o cadastro de documentos para impressão
 Armazenar dados em banco de dados local
 Aplicar o padrão Singleton na prática
+
 🧠 Padrão de Projeto Utilizado
 🔹 Singleton
 
