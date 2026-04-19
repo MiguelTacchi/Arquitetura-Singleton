@@ -25,9 +25,9 @@ Centralizar o acesso aos dados
 
 ⚙️ Tecnologias Utilizadas
 
-Java
-SQLite
-JDBC
+Java,
+SQLite,
+JDBC.
 
 📊 Funcionalidades
 📥 Cadastrar documento
