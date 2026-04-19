@@ -1,4 +1,5 @@
 📄 Sistema de Controle de Impressões (Singleton)
+
 📌 Descrição
 
 Este projeto consiste em um sistema simples de controle de impressões desenvolvido em Java, com persistência de dados em SQLite.
@@ -6,6 +7,7 @@ Este projeto consiste em um sistema simples de controle de impressões desenvolv
 O principal objetivo é demonstrar a aplicação do padrão de projeto Singleton, garantindo que exista apenas uma instância responsável pela conexão com o banco de dados.
 
 🎯 Objetivo
+
 Controlar o cadastro de documentos para impressão
 Armazenar dados em banco de dados local
 Aplicar o padrão Singleton na prática
@@ -20,9 +22,11 @@ Evitar múltiplas conexões simultâneas
 Centralizar o acesso aos dados
 
 ⚙️ Tecnologias Utilizadas
+
 Java
 SQLite
 JDBC
+
 📊 Funcionalidades
 📥 Cadastrar documento
 📄 Listar documentos
