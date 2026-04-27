@@ -14,9 +14,6 @@ Controlar o cadastro de documentos para impressão
 Armazenar dados em banco de dados local
 Aplicar o padrão Singleton na prática
 
-🧠 Padrão de Projeto Utilizado
-🔹 Singleton
-
 O padrão Singleton foi aplicado na classe ConexaoBD, com o objetivo de:
 
 Garantir uma única instância de conexão com o banco
